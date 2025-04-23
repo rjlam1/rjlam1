@@ -15,8 +15,9 @@ I'm a passionate **Frontend Developer** focused on building interactive, user-fr
 - Open source frontend initiatives
 
 ## 📫 How to reach me
-- Email: `your.email@example.com`
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: `rjlam0514@gmail.com`
+- LinkedIn: [linkedin.com/in/yourprofile]...
+- 
 - GitHub: [@rjlam1](https://github.com/rjlam1)
 
 ## 😄 Pronouns
