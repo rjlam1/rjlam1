@@ -3,6 +3,11 @@
   <img src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" alt="Cover Gif" style="width:100%;" />
 </p>
 
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/107836661?v=4" alt="Profile Picture" width="150" style="border-radius: 50%;" />
+</p>
+
 <h1 align="center">Hi there 👋,<br> I'm Shafiul Islam Lam</h1>
 
 <p align="center">
@@ -87,3 +92,4 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/190479155-2d4e34ba-c4d6-444a-a309-66c3a01a3577.gif" alt="coding" style="width:100%;" />
 </p>
+
