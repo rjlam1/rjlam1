@@ -52,6 +52,9 @@
 ![Coding](https://user-images.githubusercontent.com/74038190/190479155-2d4e34ba-c4d6-444a-a309-66c3a01a3577.gif)
 
 
+## 🌀 **Coding DNA**
+
+```python
 class Developer:
     def __init__(self):
         self.name = "Shafiul Islam Lam"
