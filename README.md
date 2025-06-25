@@ -27,17 +27,6 @@
 - 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
 - 😄 Fun fact: I enjoy tackling coding challenges and building side projects
 <img src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" alt="cover gif" style="width:100%; height:auto;" />
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  
-![rjlam1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjlam1&show_icons=true&theme=dark&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjlam1&layout=compact&theme=dark&hide_border=true)
-
-</div>
 
 ---
 
