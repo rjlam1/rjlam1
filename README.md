@@ -3,7 +3,8 @@
   <img src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" alt="Cover Gif" style="width:100%;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shafiul Islam Lam</h1>
+<h1 align="center">Hi there 👋, 
+  I'm Shafiul Islam Lam</h1>
 
 <p align="center">
   🚀 MERN Stack Developer | Full Stack JavaScript Engineer <br />
