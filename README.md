@@ -1,84 +1,53 @@
-# 💻 Shafiul Islam Lam 
-#### *MERN Stack Developer | JavaScript Specialist | Problem Solver*
+### 👋 Hi there, I'm **Shafiul Islam Lam**
+
+🚀 A passionate **Full-Stack Developer** specializing in the **MERN Stack**. I love crafting modern, responsive, and high-performance web applications.
+
+---
+
+### ⚙️ Tech Stack & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🧠 About Me
+
+- 🔨 Currently working on exciting **MERN Stack** projects
+- 🌱 Learning **advanced React concepts** and **performance optimization**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
+- 📫 Reach me at: [shafiulislamlam0000@gmail.com](mailto:your.email@example.com)
+- 😄 Fun fact: I enjoy tackling coding challenges and building side projects
+<img src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" alt="cover gif" style="width:100%; height:auto;" />
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
   
-[![Visitors](https://komarev.com/ghpvc/?username=rjlam1&label=Profile+Views&color=0e75b6&style=flat)]()
-[![Hireable](https://img.shields.io/badge/Open%20to%20Opportunities-ACTIVE-brightgreen)]()
-[![Status](https://img.shields.io/badge/Status-Coding%20%E2%9C%94-blueviolet)]()
+![rjlam1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjlam1&show_icons=true&theme=dark&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjlam1&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
-## 🛠️ Technical Arsenal
+### 🤝 Connect with Me
 
-### **Frontend Mastery**
-<div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,redux,materialui" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,styledcomponents,graphql" />
-</div>
-
-### **Backend Expertise**
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
-  <img src="https://skillicons.dev/icons?i=firebase,jest,docker,nginx" />
-</div>
-
-### **Development Tools**
-<div>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" />
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,heroku" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin_username)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rjlam1)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_username)
 
 ---
 
-## 📊 GitHub Insights
+![Coding](https://user-images.githubusercontent.com/74038190/190479155-2d4e34ba-c4d6-444a-a309-66c3a01a3577.gif)
 
-<div align="center">
-  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjlam1&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjlam1&layout=compact&theme=radical&hide_border=true) |
-| ------------- | ------------- |
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rjlam1&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## � Featured Projects
-
-| Project | Tech Stack | Key Features |
-|---------|------------|--------------|
-| **[🛒 E-Commerce Platform](https://github.com/rjlam1/ecommerce-mern)** | MERN, Redux | Payment integration, Admin dashboard |
-| **[📝 Task Manager Pro](https://github.com/rjlam1/task-manager)** | React, Node | Real-time updates, User auth |
-| **[📈 Analytics Dashboard](https://github.com/rjlam1/social-dashboard)** | Next.js, D3 | Data visualization, Custom charts |
-
----
-
-## 🌟 About Me
-
-- 🔭 Currently building: **AI-enhanced developer tools**
-- 🌱 Learning: **Blockchain and Web3 technologies**
-- 💡 Passionate about: **Clean code and UX design**
-- ⚡ Fun fact: **Can solve coding problems while cooking**
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-  
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40">](https://linkedin.com)
-[<img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40">](https://github.com/rjlam1)
-[<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40">](https://twitter.com)
-[<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40">](mailto:email@example.com)
-[<img src="https://img.icons8.com/color/48/000000/portfolio.png" width="40">](https://yourportfolio.com)
-
-</div>
-
-<div align="center">
-  
-![Developer Activity](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
-</div>
