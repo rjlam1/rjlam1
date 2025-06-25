@@ -3,8 +3,7 @@
   <img src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" alt="Cover Gif" style="width:100%;" />
 </p>
 
-<h1 align="center">Hi there 👋, 
-  I'm Shafiul Islam Lam</h1>
+<h1 align="center">Hi there 👋,<br> I'm Shafiul Islam Lam</h1>
 
 <p align="center">
   🚀 MERN Stack Developer | Full Stack JavaScript Engineer <br />
@@ -59,6 +58,14 @@
 
 ---
 
+### 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rjlam1&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
 ### 🔗 Connect with Me
 
 <p align="center">
@@ -79,4 +86,5 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/190479155-2d4e34ba-c4d6-444a-a309-66c3a01a3577.gif" alt="coding" style="width:100%;" />
 </p>
+
 
