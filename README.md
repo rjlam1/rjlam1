@@ -1,45 +1,86 @@
-### 👋 Hi, I'm Shafiul Islam Lam
+# 💎 Shafiul Islam Lam 
+#### *Crafting Digital Excellence with MERN Stack Mastery*
 
-🚀 **Full-Stack Developer** | **MERN Stack Specialist** | **AI Enthusiast**  
-💡 Building intelligent web applications with cutting-edge technologies
+<div align="center">
+  
+[![Visitors](https://komarev.com/ghpvc/?username=rjlam1&label=PROFILE+VIEWS&color=0d75fc&style=flat)]()
+[![Hireable](https://img.shields.io/badge/AVAILABLE%20FOR%20WORK-%E2%9C%94%EF%B8%8F-2ea44f)]()
+[![Status](https://img.shields.io/badge/STATUS-CREATING%20MAGIC-blueviolet)]()
 
----
-
-### 🛠️ Tech Stack
-
-#### 🌐 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-#### ⚙️ **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### 🤖 **AI/ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Integration-FFD700?style=for-the-badge&logo=openai&logoColor=black)
-
-#### 🛠️ **Tools**
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</div>
 
 ---
 
-### 🧠 **What I Do**
+## 🧙‍♂️ Tech Wizardry
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Shafiul Islam Lam"
-        self.specialization = "Full-Stack Development + AI Integration"
-        self.philosophy = "Clean Code + Scalable Architecture"
-    
-    def build(self):
-        while True:
-            yield "Modern Web Apps"
-            yield "AI-Powered Solutions"
-            yield "High-Performance Systems"
+### **Frontend Alchemy**
+<div>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,graphql" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,styledcomponents,materialui" />
+</div>
+
+### **Backend Sorcery**
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=jest,webpack,babel,docker,nginx" />
+</div>
+
+### **Crafting Tools**
+<div>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,heroku" />
+</div>
+
+---
+
+## 📊 GitHub Chronicles
+
+<div align="center">
+  
+| ![Lam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjlam1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjlam1&layout=compact&theme=radical&hide_border=true) |
+| ------------- | ------------- |
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rjlam1&theme=radical&hide_border=true&fire=DD472B&ring=8A2BE2)
+
+![Metrics](https://metrics.lecoq.io/rjlam1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FDhaka)
+
+</div>
+
+---
+
+## 🏆 Featured Creations
+
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| **[✨ E-Commerce Suite](https://github.com/rjlam1/ecommerce-mern)** | MERN, Redux, Stripe | Microservices, CI/CD, Analytics |
+| **[🚀 TaskFlow Pro](https://github.com/rjlam1/task-manager)** | React, Node, Websockets | Real-time collaboration, AI suggestions |
+| **[📊 SocialInsight](https://github.com/rjlam1/social-dashboard)** | Next.js, GraphQL, D3.js | Data visualization, Custom dashboards |
+
+---
+
+## 🌌 Beyond Code
+
+- 🔭 Currently conjuring: **AI-powered dev tools**
+- 🌱 Mastering: **Web3 & Blockchain integrations**
+- 💡 Passionate about: **Developer experience & performance**
+- ✨ Fun fact: **Can solve Rubik's cube while debugging**
+
+---
+
+## 📡 Connect Matrix
+
+<div align="center">
+  
+[<img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50">](https://linkedin.com)
+[<img src="https://img.icons8.com/color/96/000000/twitter--v1.png" width="50">](https://twitter.com)
+[<img src="https://img.icons8.com/fluency/96/000000/portfolio.png" width="50">](https://yourportfolio.com)
+[<img src="https://img.icons8.com/color/96/000000/gmail--v1.png" width="50">](mailto:email@example.com)
+[<img src="https://img.icons8.com/color/96/000000/medium-monogram.png" width="50">](https://medium.com)
+
+</div>
+
+<div align="center">
+  
+![Code Typing](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJtY2NvOGVjM3J1dWJ3YjF1d3J4dG9qY3VlZ3J5dG1mZzB3eGZ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZeB4LUZYnH6jQKaxEv/giphy.gif)
+
+</div>
