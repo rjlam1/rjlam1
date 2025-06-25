@@ -1,38 +1,73 @@
-# 💎 Shafiul Islam Lam | **MERN Stack Developer**
+# ༄ Shafiul Islam Lam 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" alt="AI Cover" style="border-radius: 12px; max-width: 90%; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
+  <img src="https://i.imgur.com/3Jm4L5X.gif" alt="AI Matrix" style="border-radius:16px;width:88%;height:auto;box-shadow:0 12px 24px rgba(0,255,255,0.3);"/>
 </div>
 
----
-
-## 🛠️ **Tech Arsenal**
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### **Tools**
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=460&lines=Full-Stack+AI+Developer;MERN+Stack+Specialist;Code+Artisan" alt="Typing Effect" />
+</p>
 
 ---
 
-## 🚀 **About Me**
+## 🧠 **Cognitive Stack**
 
-```mermaid
-graph TD
-    A[Full-Stack Developer] --> B[Frontend Magic]
-    A --> C[Backend Wizardry]
-    B --> D[React]
-    B --> E[Performance Optimization]
-    C --> F[Node.js]
-    C --> G[Database Architecture]
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌀 **Coding DNA**
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Shafiul Islam Lam"
+        self.role = "Full-Stack Developer"
+        self.skills = {
+            "Frontend": ["React", "Next.js", "Tailwind"],
+            "Backend": ["Node.js", "Express", "MongoDB"],
+            "AI/ML": ["TensorFlow", "LLM Integration"]
+        }
+    
+    def build(self):
+        while True:
+            yield "Elegant Code"
+            yield "Scalable Systems"
+            yield "AI Solutions"
