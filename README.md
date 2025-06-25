@@ -24,7 +24,7 @@
 - 🔨 Currently working on exciting **MERN Stack** projects
 - 🌱 Learning **advanced React concepts** and **performance optimization**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+- 📫 Reach me at: [shafiulislamlam0000@gmail.com](mailto:your.email@example.com)
 - 😄 Fun fact: I enjoy tackling coding challenges and building side projects
 <img src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" alt="cover gif" style="width:100%; height:auto;" />
 ---
