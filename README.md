@@ -70,26 +70,6 @@
 
 ---
 
-### 📌 Pinned Projects
-
-<p align="center">
-  <!-- Artifactares -->
-  <a href="https://github.com/rjlam1/Artifactares">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rjlam1&repo=Artifactares&theme=dark&show_owner=true" />
-  </a>
-  
-  <!-- Job-Track -->
-  <a href="https://github.com/rjlam1/Job-Track">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rjlam1&repo=Job-Track&theme=dark&show_owner=true" />
-  </a>
-  
-  <!-- Mango -->
-  <a href="https://github.com/rjlam1/Mango">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rjlam1&repo=Mango&theme=dark&show_owner=true" />
-  </a>
-</p>
-
-
 
 ### 🔗 Connect with Me
 
