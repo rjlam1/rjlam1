@@ -1,53 +1,68 @@
-### 👋 Hi there, I'm **Shafiul Islam Lam**
+# 👋 Hello, I'm Shafiul Islam Lam
 
-🚀 A passionate **Full-Stack Developer** specializing in the **MERN Stack**. I love crafting modern, responsive, and high-performance web applications.
+### MERN Stack Developer | JavaScript Enthusiast | Problem Solver
+
+I specialize in building modern, scalable web applications using MongoDB, Express.js, React, and Node.js. Passionate about clean code, architecture, and creating exceptional user experiences.
 
 ---
 
-### ⚙️ Tech Stack & Tools
+## 🛠️ Technical Skills
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 🧠 About Me
-
-- 🔨 Currently working on exciting **MERN Stack** projects
-- 🌱 Learning **advanced React concepts** and **performance optimization**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
-- 😄 Fun fact: I enjoy tackling coding challenges and building side projects
-<img src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" alt="cover gif" style="width:100%; height:auto;" />
----
-
-### 📈 GitHub Stats
+## 🔥 My GitHub Stats
 
 <div align="center">
   
-![rjlam1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjlam1&show_icons=true&theme=dark&count_private=true&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rjlam1&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjlam1&layout=compact&theme=dark&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjlam1&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Achievements](https://github-profile-trophy.vercel.app/?username=rjlam1&theme=onedark&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-### 🤝 Connect with Me
+## 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin_username)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rjlam1)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_username)
+1. **[E-Commerce Platform](https://github.com/rjlam1/ecommerce-mern)** - Full-featured MERN stack e-commerce solution
+2. **[Task Management App](https://github.com/rjlam1/task-manager)** - React + Node.js productivity application
+3. **[Social Media Dashboard](https://github.com/rjlam1/social-dashboard)** - Real-time analytics dashboard
 
 ---
 
-![Coding](https://user-images.githubusercontent.com/74038190/190479155-2d4e34ba-c4d6-444a-a309-66c3a01a3577.gif)
+## 📫 Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23FF4088?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+
+---
+
+<div align="center">
+  
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+</div>
