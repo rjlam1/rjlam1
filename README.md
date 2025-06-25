@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm **Shafiul Islam Lam**
+### 👋 Hi there,
 
 🚀 A passionate **Full-Stack Developer** specializing in the **MERN Stack**. I love crafting modern, responsive, and high-performance web applications.
 
