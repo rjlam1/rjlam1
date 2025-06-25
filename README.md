@@ -26,7 +26,7 @@
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
 - 📫 Reach me at: [shafiulislamlam0000@gmail.com](mailto:your.email@example.com)
 - 😄 Fun fact: I enjoy tackling coding challenges and building side projects
-<img src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" alt="cover gif" style="width:100%; height:auto;" />
+<img src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" alt="cover gif" style="width:50%; height:auto;" />
 ---
 
 ### 📈 GitHub Stats
