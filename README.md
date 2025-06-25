@@ -86,7 +86,7 @@
 
 ---
 
-<!-- Coding GIF -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/190479155-2d4e34ba-c4d6-444a-a309-66c3a01a3577.gif" alt="coding" style="width:100%;" />
 </p>
