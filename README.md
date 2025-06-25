@@ -8,6 +8,7 @@
 <p align="center">
   🚀 MERN Stack Developer | Full Stack JavaScript Engineer <br />
   👨‍💻 I build modern, responsive web apps with MongoDB, Express.js, React, Node.js <br />
+  📍 Location: Dhaka, Bangladesh <br />
   📫 Email: <a href="mailto:shafiulislamlam0000@gmail.com">shafiulislamlam0000@gmail.com</a>
 </p>
 
@@ -32,8 +33,8 @@
 
 ### 🧠 About Me
 
-- 🔨 Currently working on exciting MERN stack projects  
-- 🌱 Learning advanced React patterns & backend scalability  
+- 🔭 I’m currently working on a full-stack Historical Artifacts Tracker project  
+- 🌱 I’m exploring advanced React patterns and Next.js  
 - 💬 Ask me about JavaScript, React, Node.js, MongoDB  
 - 😄 Fun fact: I love solving real-world problems with code  
 
@@ -69,7 +70,7 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your_linkedin_username" target="_blank">
+  <a href="https://linkedin.com/in/shafiul-islam-lam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/rjlam1" target="_blank">
@@ -86,5 +87,3 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/190479155-2d4e34ba-c4d6-444a-a309-66c3a01a3577.gif" alt="coding" style="width:100%;" />
 </p>
-
-
