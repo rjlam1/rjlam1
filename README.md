@@ -6,14 +6,14 @@
 <h1 align="center">Hi 👋, I'm Shafiul Islam Lam</h1>
 
 <p align="center">
-  💼 Senior MERN Stack Developer | Passionate JavaScript Engineer <br/>
-  🛠️ I craft high-performance, scalable, and modern full-stack applications <br/>
+  🚀 MERN Stack Developer | Full Stack JavaScript Engineer <br />
+  👨‍💻 I build modern, responsive web apps with MongoDB, Express.js, React, Node.js <br />
   📫 Email: <a href="mailto:shafiulislamlam0000@gmail.com">shafiulislamlam0000@gmail.com</a>
 </p>
 
 ---
 
-### ⚙️ Tech Stack & Tools
+### 🧰 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
@@ -33,12 +32,10 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working on production-grade **MERN Stack applications**
-- 🔥 Strong grip over **Authentication, REST APIs, JWT, Firebase, MongoDB Atlas**
-- 📦 Familiar with **GitHub Workflow, Deployment, Performance Tuning**
-- 🚀 Passionate about clean UI/UX, component-based architecture, reusable logic
-- 💬 Ask me anything about **JavaScript, React, Node.js, MongoDB, Firebase**
-- 🎯 Goal: To build products that make an impact and solve real-life problems
+- 🔨 Currently working on exciting MERN stack projects  
+- 🌱 Learning advanced React patterns & backend scalability  
+- 💬 Ask me about JavaScript, React, Node.js, MongoDB  
+- 😄 Fun fact: I love solving real-world problems with code  
 
 ---
 
@@ -51,7 +48,7 @@
 
 ---
 
-### 🏆 GitHub Achievements
+### 🏆 GitHub Profile Metrics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjlam1&theme=radical" />
@@ -61,7 +58,7 @@
 
 ---
 
-### 🔗 Connect With Me
+### 🔗 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/your_linkedin_username" target="_blank">
