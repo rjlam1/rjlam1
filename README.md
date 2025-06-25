@@ -5,7 +5,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://ibb.co/d4z1QJMz" alt="Profile Picture" width="150" style="border-radius: 50%;" />
+  <img src="[https://ibb.co/d4z1QJMz](https://i.ibb.co/s812QfB/509358544-3982800355382512-3106275187905497552-n.jpg)" alt="Profile Picture" width="150" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi there 👋,<br> I'm Shafiul Islam Lam</h1>
