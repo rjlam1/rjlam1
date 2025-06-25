@@ -1,61 +1,57 @@
-# ༄ Shafiul Islam Lam 
+### 👋 Hi there, I'm **Shafiul Islam Lam**
+
+🚀 A passionate **Full-Stack Developer** specializing in the **MERN Stack**. I love crafting modern, responsive, and high-performance web applications.
+
+---
+
+### ⚙️ Tech Stack & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🧠 About Me
+
+- 🔨 Currently working on exciting **MERN Stack** projects
+- 🌱 Learning **advanced React concepts** and **performance optimization**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
+- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+- 😄 Fun fact: I enjoy tackling coding challenges and building side projects
+<img src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" alt="cover gif" style="width:100%; height:auto;" />
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://i.imgur.com/3Jm4L5X.gif" alt="AI Matrix" style="border-radius:16px;width:88%;height:auto;box-shadow:0 12px 24px rgba(0,255,255,0.3);"/>
+  
+![rjlam1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjlam1&show_icons=true&theme=dark&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjlam1&layout=compact&theme=dark&hide_border=true)
+
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=460&lines=Full-Stack+AI+Developer;MERN+Stack+Specialist;Code+Artisan" alt="Typing Effect" />
-</p>
+---
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin_username)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rjlam1)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_username)
 
 ---
 
-## 🧠 **Cognitive Stack**
+![Coding](https://user-images.githubusercontent.com/74038190/190479155-2d4e34ba-c4d6-444a-a309-66c3a01a3577.gif)
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" />
-      <br>Docker
-    </td>
-  </tr>
-</table>
 
----
-
-## 🌀 **Coding DNA**
-
-```python
 class Developer:
     def __init__(self):
         self.name = "Shafiul Islam Lam"
