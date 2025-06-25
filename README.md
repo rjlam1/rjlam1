@@ -70,8 +70,6 @@
 
 ---
 
----
-
 ### 📌 Pinned Projects
 
 <p align="center">
