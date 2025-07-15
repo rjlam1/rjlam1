@@ -56,7 +56,7 @@
 
 Here are some of my key projects with documentation and live links:
 
-#### 🔹 [Historical Artifacts Tracker](https://github.com/rjlam1/historical-artifacts-tracker)
+#### 🔹 [Historical Artifacts Tracker](https://artifactare.web.app/)
 - A full-stack app to manage and track historical artifacts
 - 🔗 [Live Demo](https://artifactare.web.app/)
 - ✨ Features: Protected routes, artifact likes, admin control, Firebase Auth, JWT
