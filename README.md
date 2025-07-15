@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" alt="Cover Gif" style="width:100%;" />
 </p>
 
-<p align="center">
-  <img src="https://i.ibb.co/s812QfB/509358544-3982800355382512-3106275187905497552-n.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;" />
-</p>
+
 
 <h1 align="center">Hi there 👋,<br> I'm Shafiul Islam Lam</h1>
 
