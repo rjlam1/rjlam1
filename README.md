@@ -58,7 +58,7 @@ Here are some of my key projects with documentation and live links:
 
 #### 🔹 [Historical Artifacts Tracker](https://github.com/rjlam1/historical-artifacts-tracker)
 - A full-stack app to manage and track historical artifacts
-- 🔗 [Live Demo]([https://historical-artifacts-app.vercel.app](https://artifactare.web.app/))
+- 🔗 [Live Demo](https://artifactare.web.app/)
 - ✨ Features: Protected routes, artifact likes, admin control, Firebase Auth, JWT
 - 🛠 Stack: React, Node.js, Express, MongoDB, Firebase
 
