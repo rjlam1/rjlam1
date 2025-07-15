@@ -68,9 +68,9 @@ Here are some of my key projects with documentation and live links:
 - ✨ Features: Add/Update/Delete plants, dark mode, sorting
 - 🛠 Stack: React, Tailwind CSS, MongoDB, Express.js
 
-#### 🔹 [JobTrack – Job Listing App](https://github.com/rjlam1/jobtrack-job-portal)
+#### 🔹 [JobTrack – Job Listing App](https://splendid-pony-adb6c7.netlify.app/auth/login)
 - A responsive job portal app with Firebase authentication
-- 🔗 [Live Demo](https://jobtrack-lam.vercel.app)
+- 🔗 [Live Demo](https://splendid-pony-adb6c7.netlify.app/auth/login)
 - ✨ Features: Company & job listing, dynamic filters, protected routes
 - 🛠 Stack: React, Firebase Auth, Local JSON, Tailwind
 
