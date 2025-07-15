@@ -106,7 +106,7 @@ Here are some of my key projects with documentation and live links:
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shafiul-islam-lam" target="_blank">
+  <a href="www.linkedin.com/in/shafiulislam-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/rjlam1" target="_blank">
