@@ -42,10 +42,10 @@
 ### 🌐 Portfolio & Resume
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://guileless-kulfi-4c379d.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/your-resume-link" target="_blank">
+  <a href="https://drive.google.com/file/d/1GuUua4AvjqXwtSrO_jpDd7Uaosui-G9W/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-0072B1?style=for-the-badge&logo=readcv&logoColor=white"/>
   </a>
 </p>
