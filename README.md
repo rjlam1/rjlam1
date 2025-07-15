@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/Siam456/Siam456/main/Image/cover.gif" alt="Cover Gif" style="width:100%;" />
 </p>
 
-
-
 <h1 align="center">Hi there 👋,<br> I'm Shafiul Islam Lam</h1>
 
 <p align="center">
@@ -41,6 +39,43 @@
 
 ---
 
+### 🌐 Portfolio & Resume
+
+<p align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/your-resume-link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-0072B1?style=for-the-badge&logo=readcv&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💼 Project Showcase
+
+Here are some of my key projects with documentation and live links:
+
+#### 🔹 [Historical Artifacts Tracker](https://github.com/rjlam1/historical-artifacts-tracker)
+- A full-stack app to manage and track historical artifacts
+- 🔗 [Live Demo](https://historical-artifacts-app.vercel.app)
+- ✨ Features: Protected routes, artifact likes, admin control, Firebase Auth, JWT
+- 🛠 Stack: React, Node.js, Express, MongoDB, Firebase
+
+#### 🔹 [Plant Care Tracker](https://github.com/rjlam1/plant-care-tracker)
+- Track your plants, their category, watering schedule, and updates
+- 🔗 [Live Demo](https://plant-care-lam.vercel.app)
+- ✨ Features: Add/Update/Delete plants, dark mode, sorting
+- 🛠 Stack: React, Tailwind CSS, MongoDB, Express.js
+
+#### 🔹 [JobTrack – Job Listing App](https://github.com/rjlam1/jobtrack-job-portal)
+- A responsive job portal app with Firebase authentication
+- 🔗 [Live Demo](https://jobtrack-lam.vercel.app)
+- ✨ Features: Company & job listing, dynamic filters, protected routes
+- 🛠 Stack: React, Firebase Auth, Local JSON, Tailwind
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -68,7 +103,6 @@
 
 ---
 
-
 ### 🔗 Connect with Me
 
 <p align="center">
@@ -85,8 +119,6 @@
 
 ---
 
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/190479155-2d4e34ba-c4d6-444a-a309-66c3a01a3577.gif" alt="coding" style="width:100%;" />
 </p>
-
