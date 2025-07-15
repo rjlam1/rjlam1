@@ -5,10 +5,10 @@
 <h1 align="center">Hi there 👋,<br> I'm Shafiul Islam Lam</h1>
 
 <p align="center">
-  🚀 MERN Stack Developer | Full Stack JavaScript Engineer <br />
-  👨‍💻 I build modern, responsive web apps with MongoDB, Express.js, React, Node.js <br />
-  📍 Location: Dhaka, Bangladesh <br />
-  📫 Email: <a href="mailto:shafiulislamlam0000@gmail.com">shafiulislamlam0000@gmail.com</a>
+  MERN Stack Developer | Full Stack JavaScript Engineer <br />
+  I build modern, responsive web apps with MongoDB, Express.js, React, Node.js <br />
+  Location: Dhaka, Bangladesh <br />
+  Email: <a href="mailto:shafiulislamlam0000@gmail.com">shafiulislamlam0000@gmail.com</a>
 </p>
 
 ---
