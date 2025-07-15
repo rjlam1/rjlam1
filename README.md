@@ -62,9 +62,9 @@ Here are some of my key projects with documentation and live links:
 - ✨ Features: Protected routes, artifact likes, admin control, Firebase Auth, JWT
 - 🛠 Stack: React, Node.js, Express, MongoDB, Firebase
 
-#### 🔹 [Plant Care Tracker](https://github.com/rjlam1/plant-care-tracker)
+#### 🔹 [Plant Care Tracker](https://mango-f8850.web.app/)
 - Track your plants, their category, watering schedule, and updates
-- 🔗 [Live Demo](https://plant-care-lam.vercel.app)
+- 🔗 [Live Demo](https://mango-f8850.web.app/)
 - ✨ Features: Add/Update/Delete plants, dark mode, sorting
 - 🛠 Stack: React, Tailwind CSS, MongoDB, Express.js
 
